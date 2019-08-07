@@ -27,4 +27,5 @@ io.swagger.codegen.v3.generators.scala.ScalaClientCodegen
 io.swagger.codegen.v3.generators.scala.AkkaHttpServerCodegen
 io.swagger.codegen.v3.generators.swift.Swift3Codegen
 io.swagger.codegen.v3.generators.swift.Swift4Codegen
+io.swagger.codegen.v3.generators.swift.Swift5Codegen
 io.swagger.codegen.v3.generators.typescript.TypeScriptAngularClientCodegen
