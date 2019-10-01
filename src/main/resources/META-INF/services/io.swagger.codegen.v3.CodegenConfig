@@ -14,7 +14,9 @@ io.swagger.codegen.v3.generators.java.JavaJerseyServerCodegen
 io.swagger.codegen.v3.generators.java.JavaJerseyDIServerCodegen
 io.swagger.codegen.v3.generators.java.JavaResteasyEapServerCodegen
 io.swagger.codegen.v3.generators.java.JavaResteasyServerCodegen
+io.swagger.codegen.v3.generators.java.MicronautCodegen
 io.swagger.codegen.v3.generators.java.SpringCodegen
+io.swagger.codegen.v3.generators.java.Spring2Codegen
 io.swagger.codegen.v3.generators.nodejs.NodeJSServerCodegen
 io.swagger.codegen.v3.generators.openapi.OpenAPIGenerator
 io.swagger.codegen.v3.generators.openapi.OpenAPIYamlGenerator
@@ -29,3 +31,4 @@ io.swagger.codegen.v3.generators.swift.Swift3Codegen
 io.swagger.codegen.v3.generators.swift.Swift4Codegen
 io.swagger.codegen.v3.generators.swift.Swift5Codegen
 io.swagger.codegen.v3.generators.typescript.TypeScriptAngularClientCodegen
+io.swagger.codegen.v3.generators.javascript.JavaScriptClientCodegen
